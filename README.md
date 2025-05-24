@@ -1,0 +1,1 @@
+# django_logika_l2
